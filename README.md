@@ -4,7 +4,7 @@
 ### This edited version of es_extended (1.5.0) adds:
 - The possibility to choosing the identification of players when connecting to the server. (license, steamid, discord, xlb, liveid, ip)
 - The possibility of having a second job
-- "nf_" scripting support
+- "nf_inventory" support
 
 ### Manually
 - Download https://github.com/Notyflus/es_extended_edited/archive/master.zip
